@@ -1,0 +1,26 @@
+{
+  "name": "castiron",
+  "version": "1.0.0",
+  "description": "simple boilerplate for building a rest service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rleenders/castiron.git"
+  },
+  "keywords": [
+    "rest",
+    "boilerplate"
+  ],
+  "author": "Robin Leenders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rleenders/castiron/issues"
+  },
+  "homepage": "https://github.com/rleenders/castiron#readme",
+  "dependencies": {
+    "knex": "^0.20.2"
+  }
+}
